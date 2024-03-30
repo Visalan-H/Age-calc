@@ -52,6 +52,8 @@
     font-size: 14px;
     color: black;
     cursor: pointer;
+    transition: background 0.4s, color 0.4s,transform 0.4s; 
+
 }
 .input-box input::-webkit-calendar-picker-indicator{
     top: 0px;
@@ -64,5 +66,28 @@
     background-position:calc(100% - 10px);
     background-size: 30px;
     cursor: pointer;
+    
 }
 
+p{
+    font-size: 25px; 
+    color: black; 
+    font-weight:500;
+}
+p span{
+    color:white;
+}
+label{
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+.input-box button:hover
+{
+    background:black;
+    color: white;   
+    transform: scale(0.9);
+    transition: background 0.4s, color 0.4s,transform 0.4s; 
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.2);
+}
