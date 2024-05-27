@@ -6,6 +6,8 @@ This is a simple yet nifty website that helps you calculate your age based on yo
 
 ## How it Works
 
+Visit this link: https://visalan-h.github.io/Age-calc/
+
 It's as easy as pie! 🥧 Just enter your birthdate, and our magical code will do the math for you. No need to scratch your head trying to remember how many years, months, or days old you are. We'll crunch the numbers in a snap!
 
 ## Features
